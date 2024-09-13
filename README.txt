@@ -1,1 +1,1 @@
-jstetka is cool
+jstetka 
